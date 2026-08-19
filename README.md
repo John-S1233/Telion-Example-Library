@@ -1,0 +1,1 @@
+The Telion Example Library is licensed under the MIT License. This license applies only to the example files and associated source materials in this repository and does not grant any rights to the Telion software itself, Telion trademarks, branding, or other proprietary materials.
